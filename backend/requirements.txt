@@ -1,0 +1,3 @@
+Flask==2.2.2
+# or
+fastapi==0.68.2
